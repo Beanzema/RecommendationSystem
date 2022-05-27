@@ -1,517 +1,517 @@
-Post Office
-Jazz Club
-Gym,Excercise
+Post Office,Other
+Jazz Club,Liquid
+Gym,Exercise
 Indian Restaurant,Meal
 Sandwich Place,Meal
 Karaoke Bar,Liquid
-Beer Garden, Liquid
-Bowling Alley, Entertain
-Dive Bar, Liquid
-Sports Bar, Liquid
-Thai Restaurant, Meal
-Seafood Restaurant, Meal
-Bar, Liquid
-Nightclub, Nightlife
-Music Venue, Entertain
-Pub, Liquid
-Gastropub, Liquid
-French Restaurant, Meal
-Hotel Bar, Liquid
-Sushi Restaurant, Meal
-Theater, Entertain
-Cuban Restaurant, Meal
-Breakfast Spot, Meal
-Gay Bar, Nightlife
-Music Store, HobbyShop
-Strip Club, Nightlife
-Cocktail Bar, Liquid
-Italian Restaurant, Meal
-Rock Club, Entertain
-American Restaurant, Meal
-Mexican Restaurant, Meal
-Thrift / Vintage Store, Shopping
-Deli / Bodega, Shopping
-Portuguese Restaurant, Meal
-Dessert Shop, Snack
-Cafe, Cafe
-Whisky Bar, Liquid
-Asian Restaurant, Meal
-New American Restaurant, Meal
-Middle Eastern Restaurant, Meal
-Lounge, Leisure
-Pizza Place, Meal
-Steakhouse, Meal
-Wine Bar
-Salad Place, Meal
-Dentist's Office, Medical
-Molecular Gastronomy Restaurant, Meal
-Office, Work
-Diner, Meal
-Record Shop, Hobby
-Malaysian Restaurant, Meal
-Ice Cream Shop, Snak
-Grocery Store, Shopping
-Eastern European Restaurant, Meal
-Restaurant, Meal
-Vietnamese Restaurant, Meal
-Paella Restaurant, Meal
-Southern / Soul Food Restaurant, Meal
-Clothing Store, Shopping
-Tattoo Parlor, Hobby
-Brewery, Liquid
-BBQ Joint, Meal
-Concert Hall, Entertain
-Cajun / Creole Restaurant, Meal
-Piano Bar, Liquid
-Donut Shop, Snack
-Bookstore, Shopping
-Burger Joint, Meal
-German Restaurant, Meal
-Performing Arts Venue, Entertain
-Brazilian Restaurant, Meal
-Art Gallery, Entertain
-Japanese Restaurant, Meal
-Latin American Restaurant, Meal
-Chinese Restaurant, Meal
-Event Space, Entertain
-Arts & Crafts Store, Shopping
-Bakery, Snack
-Indie Movie Theater, Entertain
-Afghan Restaurant, Meal
-Hot Dog Joint, Snack
-Falafel Restaurant, Meal
-Dim Sum Restaurant, Meal
-Tapas Restaurant, Meal
-Greek Restaurant, Meal
-Mediterranean Restaurant, Meal
-Ramen /  Noodle House, Meal
-Hotel, Residence
-Hobby Shop, Shopping
-Hookah Bar, Liquid
-Cupcake Shop, Snack
-Sporting Goods Shop, Shopping
-Boutique, Shopping
-Sake Bar, Liquid
-Shoe Store, Shopping
-Cheese Shop, Shopping
-Bagel Shop, Meal
-Comedy Club, Entertain
-Burrito Place, Meal
-Vegetarian / Vegan Restaurant, Meal
-Women's Store, Shopping
-Coffee Shop, Cafe
-Cosmetics Shop, Shopping
-Bike Shop, Shopping
-Fish & Chips Shop, Meal
-Hostel, Residence
-Electronics Store, Shopping
-South American Restaurant, Meal
-Fast Food Restaurant, Meal
-Dumpling Restaurant, Meal
-Pool Hall, Entertain
-Spanish Restaurant, Meal
-Tea Room, Cafe
-Other Nightlife, Nightlife
-Salon / Barbershop, Hairshop
-Convenience Store, Shopping
-Argentinian Restaurant, Meal
-Hardware Store, Shopping
-Bus Station, Station
-Art Museum, Entertain
-Taco Place, Meal
-Wine Shop, Liquid
-Food Truck, Snack
-Wings Joint, Meal
-Arcade, Entertain
-Caribbean Restaurant, Meal
-Korean Restaurant, Meal
-Furniture / Home Store, Shopping
-Jewelry Store, Shopping
-Harbor / Marina, Leisure
-Ethiopian Restaurant, Meal
-Speakeasy, Liquid
-Ski Chalet, Leisure
-Movie Theater, Entertain
-Liquor Store, Liquid
-Historic Site, Leisure
-Park, Leisure
-Plaza, Shopping
-Baseball Stadium, Leisure
-Residential Building (Apartment / Condo), Residence
-Gourmet Shop, Shopping
-Board Shop, Shopping
-Moroccan Restaurant, Meal
-Candy Store, Snack
-Farmers Market, Shopping
-Indonesian Restaurant, Meal
-Roof Deck, Leisure
-Gym / Fitness Center, Excercise
-Resort, Leisure
-Ski Area, Leisure
-College Academic Building, School
-Building, Work
-Beach, Leisure
-Climbing Gym, Excercise
-Toy / Game Store, Shopping
-General College & University, School
-High School, School
-City Hall, Work
-Pier, Leisure
-Convention Center, Work
-Food Court, Meal
-Temple, Leisure
-Hiking Trail, Excercise
-Multiplex, Entertain
-Dance Studio, Hobby
-African Restaurant, Meal
-Monument / Landmark, Leisure
-Smoke Shop, Shopping
-Gaming Cafe, Entertain
-Airport Food Court
-School, School
-General Entertainment
-Bank, Work
-Trade School, School
-University, School
-College Classroom, School
-Australian Restaurant, Meal
-Swiss Restaurant, Meal
-Playground, Entertain
-Casino, Entertain
-Museum, Entertain
-Racetrack, Leisure
-College Auditorium, School
-Home (private), Residence
-Mall, Shopping
-Department Store
-Stadium, Entertain
-Theme Park, Entertain
-Juice Bar
-Airport, Work
-Skate Park, Leisure
-Other Great Outdoors, Sightseeing
-Arepa Restaurant, Meal
-Spa / Massage, Rest
-Car Dealership, Shopping
-Golf Course, Leisure
-Government Building
-College Cafeteria, Meal
-Winery, Liquid
-Neighborhood
-Student Center, School
-College Residence Hall, Residence
-Zoo, Leisure
-Science Museum
-Train Station,
-Lingerie Store. Shopping
-Scandinavian Restaurant
-Indie Theater, 
-Turkish Restaurant, Meal
-Lake, Sightseeing
-Hockey Arena, Entertain
-College Arts Building
-General Travel
-Food & Drink Shop
-Aquarium
-Miscellaneous Shop
-Church
-Garden
-Light Rail
-Library
-Snack Place, Snack
-Video Store
-Military Base
-Ferry, Transportation
-Community College, School
-Bridge, Other
-College Library, School
-College Football Field, Other
-Sorority House, Residence
-College Theater, Leisure
-Peruvian Restaurant, Meal
-Spiritual Center, Leisure
-Antique Shop, Shopping
-Boat or Ferry, Transportation
-Law School, School
-Football Stadium, Entertainment
-Airport Terminal
-Accessories Store
-College Quad, Other
-Flea Market, Retail
-Pet Store, Shopping
-Hospital, Medical
-Emergency Room, Medical
-Planetarium, Leisure
-Coworking Space
-Design Studio
-Vineyard, Other
-Gift Shop, Shopping
-Dog Run, Leisure
-College Lab, Office
-Skating Rink
-Opera House, Leisure
-Doctor's Office, Medical
-Basketball Stadium, Entertain
-Medical School, School
-Video Game Store
-Scenic Lookout
-Kids Store
-Conference Room
-Airport Lounge
-Sculpture Garden
-Capitol Building
-Laundry Service
-Ski Lodge
-Gas Station / Garage
-Pool
-Fried Chicken Joint
-Auditorium
-Elementary School
-Subway
-Cafeteria
-Courthouse
-Mac & Cheese Joint
-Synagogue
-Lighthouse
-Nail Salon
-Medical Center
-Fair
-Flower Shop
-Internet Cafe
-Drugstore / Pharmacy
-Automotive Shop
-College Bookstore
-College Administrative Building
-Baseball Field
-Campground
-Tech Startup
-Farm
-Car Wash
-Parking
-College Hockey Rink
-History Museum
-Yoga Studio
-College Engineering Building
-Tennis Court
-College Stadium
-Fraternity House
-Meeting Room
-College Science Building
-Train
-Bridal Shop
-Optical Shop
-Basketball Court
-Financial or Legal Service
-Paper / Office Supplies Store
-Butcher
-College Rec Center
-Radio Station
-Surf Spot
-Hotel Pool
-Soup Place
-Factory
-Bus Line
-Field
-Road
-Men's Store
-College Baseball Diamond
-Camera Store
-Non-Profit
-College Gym
-Fish Market
-College Soccer Field
-Embassy / Consulate
-College Communications Building
-Track Stadium
-Athletic & Sport
-College & University
-Filipino Restaurant
-Middle School, School
-Tanning Salon
-Martial Arts Dojo
-Rental Car Location
-Gym Pool, Excercise
-College Technology Building
-Public Art
-Taxi
-Veterinarian
-Motel, Residence
-Soccer Stadium
-Soccer Field
-Photography Lab
-Cemetery
-Gluten-free Restaurant
-Bed & Breakfast, Residence
-Animal Shelter
-Boarding House
-Airport Gate
-Frozen Yogurt
-Hot Spring
-Water Park
-Garden Center
-Music School
-Daycare
-Police Station
-College Math Building
-Food
-College Basketball Court
-Shop & Service
-Track
-Mongolian Restaurant
-College Track
-College Tennis Court
-Mosque
-Pet Service
-Airport Tram
-Mobile Phone Shop
-Professional & Other Places
-City
-Rest Area
-Distillery
-Platform
-Funeral Home
-Tennis
-Trail
-Volleyball Court
-College History Building
-Storage Facility
-Tourist Information Center
-Credit Union
-Bike Rental / Bike Share
-Residence
-Housing Development
-Motorcycle Shop
-Rock Climbing Spot
-Travel Lounge
-River
-Stable
-Cricket Ground
-Market
-Stables
-Tailor Shop
-Newsstand
-Athletics & Sports
-Recycling Facility
-Laboratory
-Mountain
-Apres Ski Bar
-Health Food Store
-Castle
-Real Estate Office
-Paintball Field
-Arts & Entertainment
-Ski Chairlift
-Plane
-Fire Station
-Eye Doctor
-Nightlife Spot
-Shrine
-Outdoors & Recreation
-Island
-Travel Agency
-Assisted Living
-Well, Other
-Voting Booth, Other
-Hunting Supply
-Nursery School
-Campaign Office
-Other Event, Other
-Travel & Transport, Other
-Moving Target, Other
-Trails
-Hockey Field, Excercise
-Ramen / Noodle House, Meal
-Street Fair, Event
-Yogurt, Snack
-College Cricket Pitch, Excercise
-Ski Trail, Leisure
-Theme Park Ride / Attraction, Leisure
-Pastelaria, Snack
-Volcano, Sightseeing
-Volcanoes, Sightseeing
-Cities, Sightseeing
-Hotpot Restaurant, Meal
-Adult Boutique, Shopping
-EV Charging Station, Other
-Kebab Restaurant, Meal
-Beijing Restaurants, Meal
-Hotpot Restaurants, Meal
-Festival
-Conference
-Kofte Place, Meal
-Convention, Work
-Meatball Place, Meal
+Beer Garden,Liquid
+Bowling Alley,Entertain
+Dive Bar,Liquid
+Sports Bar,Liquid
+Thai Restaurant,Meal
+Seafood Restaurant,Meal
+Bar,Liquid
+Nightclub,Nightlife
+Music Venue,Entertain
+Pub,Liquid
+Gastropub,Liquid
+French Restaurant,Meal
+Hotel Bar,Liquid
+Sushi Restaurant,Meal
+Theater,Entertain
+Cuban Restaurant,Meal
+Breakfast Spot,Meal
+Gay Bar,Nightlife
+Music Store,Shopping
+Strip Club,Nightlife
+Cocktail Bar,Liquid
+Italian Restaurant,Meal
+Rock Club,Entertain
+American Restaurant,Meal
+Mexican Restaurant,Meal
+Thrift / Vintage Store,Shopping
+Deli / Bodega,Shopping
+Portuguese Restaurant,Meal
+Dessert Shop,Snack
+Cafe,Cafe
+Whisky Bar,Liquid
+Asian Restaurant,Meal
+New American Restaurant,Meal
+Middle Eastern Restaurant,Meal
+Lounge,Leisure
+Pizza Place,Meal
+Steakhouse,Meal
+Wine Bar,Liquid
+Salad Place,Meal
+Dentist's Office,Medical
+Molecular Gastronomy Restaurant,Meal
+Office,Work
+Diner,Meal
+Record Shop,Hobby
+Malaysian Restaurant,Meal
+Ice Cream Shop,Snack
+Grocery Store,Shopping
+Eastern European Restaurant,Meal
+Restaurant,Meal
+Vietnamese Restaurant,Meal
+Paella Restaurant,Meal
+Southern / Soul Food Restaurant,Meal
+Clothing Store,Shopping
+Tattoo Parlor,Hobby
+Brewery,Liquid
+BBQ Joint,Meal
+Concert Hall,Entertain
+Cajun / Creole Restaurant,Meal
+Piano Bar,Liquid
+Donut Shop,Snack
+Bookstore,Shopping
+Burger Joint,Meal
+German Restaurant,Meal
+Performing Arts Venue,Entertain
+Brazilian Restaurant,Meal
+Art Gallery,Entertain
+Japanese Restaurant,Meal
+Latin American Restaurant,Meal
+Chinese Restaurant,Meal
+Event Space,Entertain
+Arts & Crafts Store,Shopping
+Bakery,Snack
+Indie Movie Theater,Entertain
+Afghan Restaurant,Meal
+Hot Dog Joint,Snack
+Falafel Restaurant,Meal
+Dim Sum Restaurant,Meal
+Tapas Restaurant,Meal
+Greek Restaurant,Meal
+Mediterranean Restaurant,Meal
+Ramen /  Noodle House,Meal
+Hotel,Residence
+Hobby Shop,Shopping
+Hookah Bar,Liquid
+Cupcake Shop,Snack
+Sporting Goods Shop,Shopping
+Boutique,Shopping
+Sake Bar,Liquid
+Shoe Store,Shopping
+Cheese Shop,Shopping
+Bagel Shop,Meal
+Comedy Club,Entertain
+Burrito Place,Meal
+Vegetarian / Vegan Restaurant,Meal
+Women's Store,Shopping
+Coffee Shop,Cafe
+Cosmetics Shop,Shopping
+Bike Shop,Shopping
+Fish & Chips Shop,Meal
+Hostel,Residence
+Electronics Store,Shopping
+South American Restaurant,Meal
+Fast Food Restaurant,Meal
+Dumpling Restaurant,Meal
+Pool Hall,Entertain
+Spanish Restaurant,Meal
+Tea Room,Cafe
+Other Nightlife,Nightlife
+Salon / Barbershop,Hairshop
+Convenience Store,Shopping
+Argentinian Restaurant,Meal
+Hardware Store,Shopping
+Bus Station,Station
+Art Museum,Entertain
+Taco Place,Meal
+Wine Shop,Liquid
+Food Truck,Snack
+Wings Joint,Meal
+Arcade,Entertain
+Caribbean Restaurant,Meal
+Korean Restaurant,Meal
+Furniture / Home Store,Shopping
+Jewelry Store,Shopping
+Harbor / Marina,Leisure
+Ethiopian Restaurant,Meal
+Speakeasy,Liquid
+Ski Chalet,Leisure
+Movie Theater,Entertain
+Liquor Store,Liquid
+Historic Site,Leisure
+Park,Leisure
+Plaza,Shopping
+Baseball Stadium,Leisure
+Residential Building (Apartment / Condo),Residence
+Gourmet Shop,Shopping
+Board Shop,Shopping
+Moroccan Restaurant,Meal
+Candy Store,Snack
+Farmers Market,Shopping
+Indonesian Restaurant,Meal
+Roof Deck,Leisure
+Gym / Fitness Center,Exercise
+Resort,Leisure
+Ski Area,Leisure
+College Academic Building,School
+Building,Work
+Beach,Leisure
+Climbing Gym,Exercise
+Toy / Game Store,Shopping
+General College & University,School
+High School,School
+City Hall,Work
+Pier,Leisure
+Convention Center,Work
+Food Court,Meal
+Temple,Leisure
+Hiking Trail,Exercise
+Multiplex,Entertain
+Dance Studio,Hobby
+African Restaurant,Meal
+Monument / Landmark,Leisure
+Smoke Shop,Shopping
+Gaming Cafe,Entertain
+Airport Food Court,Meal
+School,School
+General Entertainment,Entertainment
+Bank,Work
+Trade School,School
+University,School
+College Classroom,School
+Australian Restaurant,Meal
+Swiss Restaurant,Meal
+Playground,Entertain
+Casino,Entertain
+Museum,Entertain
+Racetrack,Leisure
+College Auditorium,School
+Home (private),Residence
+Mall,Shopping
+Department Store,Shopping
+Stadium,Entertain
+Theme Park,Entertain
+Juice Bar,Snack
+Airport,Work
+Skate Park,Leisure
+Other Great Outdoors,Sightseeing
+Arepa Restaurant,Meal
+Spa / Massage,Leisure
+Car Dealership,Shopping
+Golf Course,Leisure
+Government Building,Other
+College Cafeteria,Meal
+Winery,Liquid
+Neighborhood,Other
+Student Center,School
+College Residence Hall,Residence
+Zoo,Leisure
+Science Museum,Leisure
+Train Station,Transportation
+Lingerie Store,Shopping
+Scandinavian Restaurant,Meal
+Indie Theater,Entertain
+Turkish Restaurant,Meal
+Lake,Sightseeing
+Hockey Arena,Entertain
+College Arts Building,Other
+General Travel,Leisure
+Food & Drink Shop,Meal
+Aquarium,Leisure
+Miscellaneous Shop,Shopping
+Church,Leisure
+Garden,Leisure
+Light Rail,Transportation
+Library,School
+Snack Place,Snack
+Video Store,Shopping
+Military Base,Other
+Ferry,Transportation
+Community College,School
+Bridge,Other
+College Library,School
+College Football Field,Other
+Sorority House,Residence
+College Theater,Leisure
+Peruvian Restaurant,Meal
+Spiritual Center,Leisure
+Antique Shop,Shopping
+Boat or Ferry,Transportation
+Law School,School
+Football Stadium,Entertainment
+Airport Terminal,Transportation
+Accessories Store,Shopping
+College Quad,Other
+Flea Market,Retail
+Pet Store,Shopping
+Hospital,Medical
+Emergency Room,Medical
+Planetarium,Leisure
+Coworking Space,Work
+Design Studio,Work
+Vineyard,Other
+Gift Shop,Shopping
+Dog Run,Leisure
+College Lab,Other
+Skating Rink,Leisure
+Opera House,Leisure
+Doctor's Office,Medical
+Basketball Stadium,Entertain
+Medical School,School
+Video Game Store,Shopping
+Scenic Lookout,Sightseeing
+Kids Store,Shopping
+Conference Room,Work
+Airport Lounge,Other
+Sculpture Garden,Leisure
+Capitol Building,Sightseeing
+Laundry Service,Work
+Ski Lodge,Leisure
+Gas Station / Garage,Other
+Pool,Leisure
+Fried Chicken Joint,Meal
+Auditorium,Entertain
+Elementary School,School
+Subway,Transportation
+Cafeteria,Meal
+Courthouse,Work
+Mac & Cheese Joint,Meal
+Synagogue,Other
+Lighthouse,Other
+Nail Salon,Hairshop
+Medical Center,Other
+Fair,Leisure
+Flower Shop,Shopping
+Internet Cafe,Leisure
+Drugstore / Pharmacy,Retail
+Automotive Shop,Shopping
+College Bookstore,Other
+College Administrative Building,Other
+Baseball Field,Event
+Campground,Leisure
+Tech Startup,Other
+Farm,Other
+Car Wash,Other
+Parking,Other
+College Hockey Rink,Event
+History Museum,Leisure
+Yoga Studio,Exercise
+College Engineering Building,Other
+Tennis Court,Event
+College Stadium,Event
+Fraternity House,Residence
+Meeting Room,Other
+College Science Building,School
+Train,Transportation
+Bridal Shop,Shopping
+Optical Shop,Shopping
+Basketball Court,Leisure
+Financial or Legal Service,Other
+Paper / Office Supplies Store,Other
+Butcher,Retail
+College Rec Center,Exercise
+Radio Station,Other
+Surf Spot,Leisure
+Hotel Pool,Leisure
+Soup Place,Meal
+Factory,Other
+Bus Line,Transportation
+Field,Other
+Road,Other
+Men's Store,Shopping
+College Baseball Diamond,Leisure
+Camera Store,Shopping
+Non-Profit,Other
+College Gym,Other
+Fish Market,Retail
+College Soccer Field,Other
+Embassy / Consulate,Other
+College Communications Building,Other
+Track Stadium,Event
+Athletic & Sport,Exercise
+College & University,School
+Filipino Restaurant,Meal
+Middle School,School
+Tanning Salon,Leisure
+Martial Arts Dojo,Exercise
+Rental Car Location,Other
+Gym Pool,Exercise
+College Technology Building,Other
+Public Art,Sightseeing
+Taxi,Transportation
+Veterinarian,Medical
+Motel,Residence
+Soccer Stadium,Event
+Soccer Field,Exercise
+Photography Lab,Other
+Cemetery,Event
+Gluten-free Restaurant,Meal
+Bed & Breakfast,Residence
+Animal Shelter,Other
+Boarding House,Residence
+Airport Gate,Transportation
+Frozen Yogurt,Snack
+Hot Spring,Leisure
+Water Park,Leisure
+Garden Center,Shopping
+Music School,School
+Daycare,Other
+Police Station,Other
+College Math Building,School
+Food,Meal
+College Basketball Court,Event
+Shop & Service,Shopping
+Track,Other
+Mongolian Restaurant,Meal
+College Track,Other
+College Tennis Court,Other
+Mosque,Leisure
+Pet Service,Other
+Airport Tram,Transportation
+Mobile Phone Shop,Shopping
+Professional & Other Places,Other
+City,Other
+Rest Area,Leisure
+Distillery,Liquid
+Platform,Transportation
+Funeral Home,Event
+Tennis,Exercise
+Trail,Transportation
+Volleyball Court,Event
+College History Building,Other
+Storage Facility,Other
+Tourist Information Center,Other
+Credit Union,Other
+Bike Rental / Bike Share,Leisure
+Residence,Residence
+Housing Development,Other
+Motorcycle Shop,Shopping
+Rock Climbing Spot,Exercise
+Travel Lounge,Other
+River,Leisure
+Stable,Other
+Cricket Ground,Event
+Market,Shopping
+Stables,Other
+Tailor Shop,Shopping
+Newsstand,Other
+Athletics & Sports,Exercise
+Recycling Facility,Other
+Laboratory,Work
+Mountain,Exercise
+Apres Ski Bar,Liquid
+Health Food Store,Shopping
+Castle,Sightseeing
+Real Estate Office,Work
+Paintball Field,Leisure
+Arts & Entertainment,Leisure
+Ski Chairlift,Leisure
+Plane,Transportation
+Fire Station,Work
+Eye Doctor,Medical
+Nightlife Spot,Nightlife
+Shrine,Leisure
+Outdoors & Recreation,Leisure
+Island,Leisure
+Travel Agency,Shopping
+Assisted Living,Other
+Well,Other
+Voting Booth,Other
+Hunting Supply,Shopping
+Nursery School,School
+Campaign Office,Other
+Other Event,Other
+Travel & Transport,Other
+Moving Target,Other
+Trails,Transportation
+Hockey Field,Exercise
+Ramen / Noodle House,Meal
+Street Fair,Event
+Yogurt,Snack
+College Cricket Pitch,Exercise
+Ski Trail,Leisure
+Theme Park Ride / Attraction,Leisure
+Pastelaria,Snack
+Volcano,Sightseeing
+Volcanoes,Sightseeing
+Cities,Sightseeing
+Hotpot Restaurant,Meal
+Adult Boutique,Shopping
+EV Charging Station,Other
+Kebab Restaurant,Meal
+Beijing Restaurants,Meal
+Hotpot Restaurants,Meal
+Festival,Event
+Conference,Work
+Kofte Place,Meal
+Convention,Work
+Meatball Place,Meal
 Chinese Breakfast Place,Meal
-Taiwanese Restaurant, Meal
-Caucasian Restaurant, Meal
-Doner Restaurant, Meal
-Balinese Restaurant, Meal
-Markets, Shopping
-Kokoretsi Restaurant, Meal
-Music Festival, Event
-Tibetan Restaurant, Meal
-Churrascaria, Meal
-Empada House, Snack
-Shanghai Restaurant, Meal
-Northeastern Brazilian Restaurant, Meal
-Yogurts, Snack
-Home Cooking Restaurant, Meal
-Mineiro Restaurant, Meal
-Acai House, Snack
-Persian Restaurants, Meal
-Russian Restaurant, Meal
-Padangnese Restaurant, Meal
-Javanese Restaurant, Meal
-Tapiocaria, Meal
-Other, Other
-Music Festivals, Event
-Festivals, Event
-Conventions, Event
-Other Events, Event
-Conferences, Work
-Street Fairs, Event
-Parade, Entertain
-Meyhane, Liquid
-Kofte Restaurant, Meal
-Gozleme Place, Meal
-Manti Place, Residence
-Goiano Restaurant, Meal
-Central Brazilian Restaurant, Meal
-Northern Brazilian Restaurant, Meal
-Betawinese Restaurant, Meal
-Sundanese Restaurant, Meal
-Southern Brazilian Restaurant, Meal
-Romanian Restaurant, Meal
-Acehnese Restaurant, Meal
-Baiano Restaurant, Meal
-Hong Kong Restaurants, Meal
-Empanada Restaurant, Meal
-Manadonese Restaurant, Meal
-Hong Kong Restaurant, Meal
-Shanghai Restaurants, Meal
-Chinese Aristocrat Restaurants, Meal
-Hunan Restaurants, Meal
-Shanxi Restaurants, Meal
-Taiwanese Restaurants, Meal
-Szechuan Restaurants, Meal
-Cantonese Restaurants, Meal
-Cantonese Restaurant, Meal
-Southeastern Brazilian Restaurant, Meal
-Tibetan Restaurants, Meal
-Marijuana Dispensary
-Fujian Restaurant, Meal
-Henan Restaurant, Meal
-Hakka Restaurant, Meal
-Zhejiang Restaurant, Meal
-Szechuan Restaurant, Meal
-Shaanxi Restaurant, Meal
-Discount Stores, Shopping
-Anhui Restaurant, Meal
-Guizhou Restaurant, Meal
-Shandong Restaurant, Meal
-Austrian Restaurants, Meal
-Comfort Food Restaurants, Meal
-Bistros, Meal
-Country Dance Clubs, Leisure
-Go Kart Tracks, Leisure
-Warehouse Stores, Shopping
+Taiwanese Restaurant,Meal
+Caucasian Restaurant,Meal
+Doner Restaurant,Meal
+Balinese Restaurant,Meal
+Markets,Shopping
+Kokoretsi Restaurant,Meal
+Music Festival,Event
+Tibetan Restaurant,Meal
+Churrascaria,Meal
+Empada House,Snack
+Shanghai Restaurant,Meal
+Northeastern Brazilian Restaurant,Meal
+Yogurts,Snack
+Home Cooking Restaurant,Meal
+Mineiro Restaurant,Meal
+Acai House,Snack
+Persian Restaurants,Meal
+Russian Restaurant,Meal
+Padangnese Restaurant,Meal
+Javanese Restaurant,Meal
+Tapiocaria,Meal
+Other,Other
+Music Festivals,Event
+Festivals,Event
+Conventions,Event
+Other Events,Event
+Conferences,Work
+Street Fairs,Event
+Parade,Entertain
+Meyhane,Liquid
+Kofte Restaurant,Meal
+Gozleme Place,Meal
+Manti Place,Residence
+Goiano Restaurant,Meal
+Central Brazilian Restaurant,Meal
+Northern Brazilian Restaurant,Meal
+Betawinese Restaurant,Meal
+Sundanese Restaurant,Meal
+Southern Brazilian Restaurant,Meal
+Romanian Restaurant,Meal
+Acehnese Restaurant,Meal
+Baiano Restaurant,Meal
+Hong Kong Restaurants,Meal
+Empanada Restaurant,Meal
+Manadonese Restaurant,Meal
+Hong Kong Restaurant,Meal
+Shanghai Restaurants,Meal
+Chinese Aristocrat Restaurants,Meal
+Hunan Restaurants,Meal
+Shanxi Restaurants,Meal
+Taiwanese Restaurants,Meal
+Szechuan Restaurants,Meal
+Cantonese Restaurants,Meal
+Cantonese Restaurant,Meal
+Southeastern Brazilian Restaurant,Meal
+Tibetan Restaurants,Meal
+Marijuana Dispensary,Entertain
+Fujian Restaurant,Meal
+Henan Restaurant,Meal
+Hakka Restaurant,Meal
+Zhejiang Restaurant,Meal
+Szechuan Restaurant,Meal
+Shaanxi Restaurant,Meal
+Discount Stores,Shopping
+Anhui Restaurant,Meal
+Guizhou Restaurant,Meal
+Shandong Restaurant,Meal
+Austrian Restaurants,Meal
+Comfort Food Restaurants,Meal
+Bistros,Meal
+Country Dance Clubs,Leisure
+Go Kart Tracks,Leisure
+Warehouse Stores,Shopping
